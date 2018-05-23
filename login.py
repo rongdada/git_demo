@@ -14,3 +14,5 @@ def index()
 dfs
 fdffd
 
+str4 = sgggga
+
