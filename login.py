@@ -9,3 +9,8 @@ xxxxxx
 123456
 3424234
 
+def index()
+	abcdef
+dfs
+fdffd
+
